@@ -36,7 +36,7 @@ El objetivo principal de este taller es que cada participante se familiarice con
 - [Google Colab](https://colab.google/) como entorno de desarrollo.
 - Python como lenguaje de programación.
 - Librerías [Pandas](https://pandas.pydata.org/) y [Altair](https://altair-viz.github.io/) para el análisis y visualización de datos.
-- Archivo formato CSV con enfoque musical.
+- [Archivo formato CSV con enfoque musical](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024/data).
 
 ## Material de apoyo
 
